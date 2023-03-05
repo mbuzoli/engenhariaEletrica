@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LED RGB ESP8266 Firebase</string>
+    <string name="title">LED RGB ESP8266</string>
+    <string name="subtitle">Firebase Kotlin</string>
+    <string name="cycle_color">Ciclo de colores</string>
+    <string name="all">TODO</string>
+    <string name="brightness">Brillo: 0%</string>
+</resources>

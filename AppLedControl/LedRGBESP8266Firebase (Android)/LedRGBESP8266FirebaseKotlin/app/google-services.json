@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515531552385",
+    "firebase_url": "https://ledrgbesp8266fire-default-rtdb.firebaseio.com",
+    "project_id": "ledrgbesp8266fire",
+    "storage_bucket": "ledrgbesp8266fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515531552385:android:1f2e15fa70056a50943f80",
+        "android_client_info": {
+          "package_name": "com.example.ledrgbesp8266firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515531552385-to61k6uc7ovtpjiifjmiircpq9r6qvki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_OSXu2cbeYCShjj2Mu9CWwj_eGzlYxIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515531552385-to61k6uc7ovtpjiifjmiircpq9r6qvki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
